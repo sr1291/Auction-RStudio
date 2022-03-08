@@ -1,0 +1,133 @@
+"PlayerNum","Name","ActionNum","Action","Bidder","Time","SoldPrice"
+23,"Rassie Van Der Dussen",3,"Sold","Venkat/Gopal",2022-02-27 11:34:50,1
+23,"Rassie Van Der Dussen",2,"Bid","Venkat/Gopal",2022-02-27 11:34:48,1
+23,"Rassie Van Der Dussen",1,"Revealed",NA,2022-02-27 11:33:45,1
+22,"Evin Lewis",2,"Unsold",NA,2022-02-27 11:33:42,NA
+22,"Evin Lewis",1,"Revealed",NA,2022-02-27 11:33:14,2
+21,"Devon Conway",26,"Sold","Vijay",2022-02-27 11:32:45,6.5
+21,"Devon Conway",25,"Bid","Vijay",2022-02-27 11:32:21,6.5
+21,"Devon Conway",24,"Bid","Shankar",2022-02-27 11:32:10,6.25
+21,"Devon Conway",23,"Bid","Vijay",2022-02-27 11:31:38,6
+21,"Devon Conway",22,"Bid","Shankar",2022-02-27 11:31:28,5.75
+21,"Devon Conway",21,"Bid","Vijay",2022-02-27 11:30:57,5.5
+21,"Devon Conway",20,"Bid","Akshay/Arjun",2022-02-27 11:30:44,5.25
+21,"Devon Conway",19,"Bid","Vijay",2022-02-27 11:30:33,5
+21,"Devon Conway",18,"Bid","Dom/Anja",2022-02-27 11:30:27,4.8
+21,"Devon Conway",17,"Bid","Akshay/Arjun",2022-02-27 11:30:23,4.6
+21,"Devon Conway",16,"Bid","Vijay",2022-02-27 11:30:17,4.4
+21,"Devon Conway",15,"Bid","Akshay/Arjun",2022-02-27 11:30:12,4.2
+21,"Devon Conway",14,"Bid","Vijay",2022-02-27 11:29:50,4
+21,"Devon Conway",13,"Bid","Akshay/Arjun",2022-02-27 11:29:48,3.8
+21,"Devon Conway",12,"Bid","Vijay",2022-02-27 11:29:47,3.6
+21,"Devon Conway",11,"Bid","Akshay/Arjun",2022-02-27 11:29:44,3.4
+21,"Devon Conway",10,"Bid","Vijay",2022-02-27 11:29:40,3.2
+21,"Devon Conway",9,"Bid","Akshay/Arjun",2022-02-27 11:29:37,3
+21,"Devon Conway",8,"Bid","Vicky/Adhok",2022-02-27 11:29:31,2.6
+21,"Devon Conway",7,"Bid","Shankar",2022-02-27 11:29:25,2.4
+21,"Devon Conway",6,"Bid","Akshay/Arjun",2022-02-27 11:28:43,2.2
+21,"Devon Conway",5,"Bid","Vicky/Adhok",2022-02-27 11:28:28,1.3
+21,"Devon Conway",4,"Bid","Venkat/Gopal",2022-02-27 11:28:26,1.2
+21,"Devon Conway",3,"Bid","Vijay",2022-02-27 11:28:10,1.1
+21,"Devon Conway",2,"Bid","Raghu",2022-02-27 11:28:07,1
+21,"Devon Conway",1,"Revealed",NA,2022-02-27 11:27:55,1
+20,"Alex Hales",5,"Sold","Venkat/Gopal",2022-02-27 11:27:38,1.7
+20,"Alex Hales",4,"Bid","Venkat/Gopal",2022-02-27 11:26:51,1.7
+20,"Alex Hales",3,"Bid","Swamy",2022-02-27 11:26:50,1.6
+20,"Alex Hales",2,"Bid","Dom/Anja",2022-02-27 11:26:49,1.5
+20,"Alex Hales",1,"Revealed",NA,2022-02-27 11:26:07,1.5
+19,"Finn Allen",3,"Sold","Raghu",2022-02-27 11:26:05,0.5
+19,"Finn Allen",2,"Bid","Raghu",2022-02-27 11:25:50,0.5
+19,"Finn Allen",1,"Revealed",NA,2022-02-27 11:25:32,0.5
+18,"Karun Nair",3,"Sold","Shankar",2022-02-27 11:25:31,0.5
+18,"Karun Nair",2,"Bid","Shankar",2022-02-27 11:25:14,0.5
+18,"Karun Nair",1,"Revealed",NA,2022-02-27 11:24:53,0.5
+17,"Rovman Powell",4,"Sold","Dom/Anja",2022-02-27 11:24:51,3.2
+17,"Rovman Powell",3,"Bid","Vicky/Adhok",2022-02-27 11:22:05,2.2
+17,"Rovman Powell",2,"Bid","Vijay",2022-02-27 11:20:40,0.75
+17,"Rovman Powell",1,"Revealed",NA,2022-02-27 11:20:30,0.75
+16,"Kuldeep Sen",2,"Unsold",NA,2022-02-27 11:20:22,NA
+16,"Kuldeep Sen",1,"Revealed",NA,2022-02-27 11:20:15,0.2
+15,"Yash Dayal",7,"Sold","Akshay/Arjun",2022-02-27 11:20:06,0.4
+15,"Yash Dayal",6,"Bid","Akshay/Arjun",2022-02-27 11:19:45,0.4
+15,"Yash Dayal",5,"Bid","Raghu",2022-02-27 11:19:32,0.35
+15,"Yash Dayal",4,"Bid","Akshay/Arjun",2022-02-27 11:19:13,0.3
+15,"Yash Dayal",3,"Bid","Swamy",2022-02-27 11:19:12,0.25
+15,"Yash Dayal",2,"Bid","Akshay/Arjun",2022-02-27 11:18:46,0.2
+15,"Yash Dayal",1,"Revealed",NA,2022-02-27 11:18:38,0.2
+14,"Simarjeet Singh",3,"Sold","Akshay/Arjun",2022-02-27 11:18:36,0.2
+14,"Simarjeet Singh",2,"Bid","Akshay/Arjun",2022-02-27 11:18:35,0.2
+14,"Simarjeet Singh",1,"Revealed",NA,2022-02-27 11:17:57,0.2
+13,"Vicky Ostwal",2,"Unsold",NA,2022-02-27 11:17:54,NA
+13,"Vicky Ostwal",1,"Revealed",NA,2022-02-27 11:17:39,0.2
+12,"Rajvardhan Hangargekar",11,"Sold","Dom/Anja",2022-02-27 11:17:23,0.9
+12,"Rajvardhan Hangargekar",10,"Bid","Dom/Anja",2022-02-27 11:16:56,0.9
+12,"Rajvardhan Hangargekar",9,"Bid","Akshay/Arjun",2022-02-27 11:16:32,0.8
+12,"Rajvardhan Hangargekar",8,"Bid","Dom/Anja",2022-02-27 11:16:16,0.7
+12,"Rajvardhan Hangargekar",7,"Bid","Akshay/Arjun",2022-02-27 11:16:14,0.6
+12,"Rajvardhan Hangargekar",6,"Bid","Dom/Anja",2022-02-27 11:16:12,0.5
+12,"Rajvardhan Hangargekar",5,"Bid","Akshay/Arjun",2022-02-27 11:16:11,0.45
+12,"Rajvardhan Hangargekar",4,"Bid","Dom/Anja",2022-02-27 11:16:10,0.4
+12,"Rajvardhan Hangargekar",3,"Bid","Akshay/Arjun",2022-02-27 11:16:00,0.35
+12,"Rajvardhan Hangargekar",2,"Bid","Dom/Anja",2022-02-27 11:15:56,0.3
+12,"Rajvardhan Hangargekar",1,"Revealed",NA,2022-02-27 11:15:27,0.3
+11,"N. Tilak Varma",5,"Sold","Swamy",2022-02-27 11:15:24,1.9
+11,"N. Tilak Varma",4,"Bid","Swamy",2022-02-27 11:15:14,1.9
+11,"N. Tilak Varma",3,"Bid","Shankar",2022-02-27 11:14:50,1.7
+11,"N. Tilak Varma",2,"Bid","Akshay/Arjun",2022-02-27 11:14:16,0.2
+11,"N. Tilak Varma",1,"Revealed",NA,2022-02-27 11:13:24,0.2
+10,"Anukul Roy",2,"Unsold",NA,2022-02-27 11:13:23,NA
+10,"Anukul Roy",1,"Revealed",NA,2022-02-27 11:12:55,0.2
+9,"Ripal Patel",2,"Unsold",NA,2022-02-27 11:12:55,NA
+9,"Ripal Patel",1,"Revealed",NA,2022-02-27 11:12:36,0.2
+8,"Sanjay Yadav",3,"Sold","Dom/Anja",2022-02-27 11:12:17,0.6
+8,"Sanjay Yadav",2,"Bid","Dom/Anja",2022-02-27 11:12:13,0.2
+8,"Sanjay Yadav",1,"Revealed",NA,2022-02-27 11:11:05,0.2
+7,"Lalit Yadav",16,"Sold","Dom/Anja",2022-02-27 11:11:02,1.3
+7,"Lalit Yadav",15,"Bid","Shankar",2022-02-27 11:10:00,1.2
+7,"Lalit Yadav",14,"Bid","Swamy",2022-02-27 11:09:51,1.1
+7,"Lalit Yadav",13,"Bid","Shankar",2022-02-27 11:09:48,1
+7,"Lalit Yadav",12,"Bid","Swamy",2022-02-27 11:09:47,0.9
+7,"Lalit Yadav",11,"Bid","Shankar",2022-02-27 11:09:44,0.8
+7,"Lalit Yadav",10,"Bid","Swamy",2022-02-27 11:09:43,0.7
+7,"Lalit Yadav",9,"Bid","Shankar",2022-02-27 11:09:39,0.6
+7,"Lalit Yadav",8,"Bid","Swamy",2022-02-27 11:09:29,0.5
+7,"Lalit Yadav",7,"Bid","Vijay",2022-02-27 11:09:27,0.45
+7,"Lalit Yadav",6,"Bid","Swamy",2022-02-27 11:09:25,0.4
+7,"Lalit Yadav",5,"Bid","Vijay",2022-02-27 11:09:24,0.35
+7,"Lalit Yadav",4,"Bid","Swamy",2022-02-27 11:09:22,0.3
+7,"Lalit Yadav",3,"Bid","Vijay",2022-02-27 11:09:21,0.25
+7,"Lalit Yadav",2,"Bid","Swamy",2022-02-27 11:09:20,0.2
+7,"Lalit Yadav",1,"Revealed",NA,2022-02-27 11:09:16,0.2
+6,"Yash Dhull",7,"Sold","Vijay",2022-02-27 11:09:14,0.7
+6,"Yash Dhull",6,"Bid","Vijay",2022-02-27 11:08:54,0.7
+6,"Yash Dhull",5,"Bid","Vijay",2022-02-27 11:08:05,0.4
+6,"Yash Dhull",4,"Bid","Dom/Anja",2022-02-27 11:07:57,0.35
+6,"Yash Dhull",3,"Bid","Shankar",2022-02-27 11:07:33,0.25
+6,"Yash Dhull",2,"Bid","Vijay",2022-02-27 11:07:20,0.2
+6,"Yash Dhull",1,"Revealed",NA,2022-02-27 11:07:11,0.2
+5,"Darshan Nalkande",2,"Unsold",NA,2022-02-27 11:07:10,NA
+5,"Darshan Nalkande",1,"Revealed",NA,2022-02-27 11:06:59,0.2
+4,"Mahipal Lomror",11,"Sold","Shankar",2022-02-27 11:06:58,1.1
+4,"Mahipal Lomror",10,"Bid","Shankar",2022-02-27 11:06:38,1.1
+4,"Mahipal Lomror",9,"Bid","Akshay/Arjun",2022-02-27 11:06:20,1
+4,"Mahipal Lomror",8,"Bid","Vijay",2022-02-27 11:06:09,0.9
+4,"Mahipal Lomror",7,"Bid","Akshay/Arjun",2022-02-27 11:06:08,0.8
+4,"Mahipal Lomror",6,"Bid","Swamy",2022-02-27 11:06:07,0.7
+4,"Mahipal Lomror",5,"Bid","Vijay",2022-02-27 11:06:05,0.6
+4,"Mahipal Lomror",4,"Bid","Swamy",2022-02-27 11:06:01,0.5
+4,"Mahipal Lomror",3,"Bid","Vijay",2022-02-27 11:06:00,0.45
+4,"Mahipal Lomror",2,"Bid","Akshay/Arjun",2022-02-27 11:05:58,0.4
+4,"Mahipal Lomror",1,"Revealed",NA,2022-02-27 11:05:45,0.4
+3,"Raj Angad Bawa",8,"Sold","Swamy",2022-02-27 11:05:41,0.5
+3,"Raj Angad Bawa",7,"Bid","Swamy",2022-02-27 11:05:22,0.5
+3,"Raj Angad Bawa",6,"Bid","Venkat/Gopal",2022-02-27 11:05:21,0.45
+3,"Raj Angad Bawa",5,"Bid","Swamy",2022-02-27 11:05:03,0.35
+3,"Raj Angad Bawa",4,"Bid","Vijay",2022-02-27 11:05:02,0.3
+3,"Raj Angad Bawa",3,"Bid","Venkat/Gopal",2022-02-27 11:05:02,0.25
+3,"Raj Angad Bawa",2,"Bid","Swamy",2022-02-27 11:05:01,0.2
+3,"Raj Angad Bawa",1,"Revealed",NA,2022-02-27 11:04:39,0.2
+2,"Rinku Singh",2,"Unsold",NA,2022-02-27 11:02:37,NA
+2,"Rinku Singh",1,"Revealed",NA,2022-02-27 11:02:14,0.2
+1,"Manan Vohra",3,"Sold","Shankar",2022-02-27 11:01:56,0.2
+1,"Manan Vohra",2,"Bid","Shankar",2022-02-27 11:01:47,0.2
+1,"Manan Vohra",1,"Revealed",NA,2022-02-27 11:01:27,0.2
