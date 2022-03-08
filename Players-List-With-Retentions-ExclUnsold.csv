@@ -1,0 +1,238 @@
+"PlayerNumber","SetNumber","SetDescription","Set","Name","Team","Country","BasePrice","Skillset","Auctioned","Sold","Owner","Price"
+-32,-1,"M-1","SET:-1|M-1","Ravindra Jadeja","CSK","India",4,"ALL-ROUNDER","Yes","Yes","Vijay","13.5"
+-28,-1,"M-1","SET:-1|M-1","Virat Kohli","RCB","India",4,"BATSMAN","Yes","Yes","Swamy","16.75"
+-27,-1,"M-1","SET:-1|M-1","Glenn Maxwell","RCB","Australia",4,"ALL-ROUNDER","Yes","Yes","Shankar","15.5"
+-25,-1,"M-1","SET:-1|M-1","Rohit Sharma","MI","India",4,"BATSMAN","Yes","Yes","Dom/Anja","16.25"
+-24,-1,"M-1","SET:-1|M-1","Jasprit Bumrah","MI","India",4,"BOWLER","Yes","Yes","Vijay","16"
+-22,-1,"M-1","SET:-1|M-1","Suryakumar Yadav","MI","India",4,"BATSMAN","Yes","Yes","Akshay/Arjun","14.25"
+-19,-1,"M-1","SET:-1|M-1","Rishabh Pant","DC","India",4,"WICKETKEEPER","Yes","Yes","Vicky/Adhok","14.5"
+-11,-1,"M-1","SET:-1|M-1","Sanju Samson","RR","India",4,"WICKETKEEPER","Yes","Yes","Swamy","14.25"
+-10,-1,"M-1","SET:-1|M-1","Jos Buttler","RR","England",4,"WICKETKEEPER","Yes","Yes","Dom/Anja","15.25"
+-8,-1,"M-1","SET:-1|M-1","Kane Williamson","SRH","New Zealand",4,"BATSMAN","Yes","Yes","Swamy","11.25"
+-5,-1,"M-1","SET:-1|M-1","KL Rahul","LSG","India",4,"WICKETKEEPER","Yes","Yes","Shankar","20"
+-2,-1,"M-1","SET:-1|M-1","Hardik Pandya","GT","India",4,"ALL-ROUNDER","Yes","Yes","Akshay/Arjun","11.75"
+-1,-1,"M-1","SET:-1|M-1","Rashid Khan","GT","Afghanistan",4,"BOWLER","Yes","Yes","Venkat/Gopal","17"
+-30,0,"M0","SET:0|M0","Ruturaj Gaikwad","CSK","India",3,"BATSMAN","Yes","Yes","Raghu","15"
+-29,0,"M0","SET:0|M0","Moeen Ali","CSK","England",3,"ALL-ROUNDER","Yes","Yes","Venkat/Gopal","14.75"
+-26,0,"M0","SET:0|M0","Mohammed Siraj","RCB","India",3,"BOWLER","Yes","Yes","Vijay","7"
+-21,0,"M0","SET:0|M0","Mayank Agarwal","PK","India",3,"BATSMAN","Yes","Yes","Vijay","13.25"
+-18,0,"M0","SET:0|M0","Prithvi Shaw","DC","India",3,"BATSMAN","Yes","Yes","Raghu","14.25"
+-13,0,"M0","SET:0|M0","Andre Russell","KKR","West Indies",3,"ALL-ROUNDER","Yes","Yes","Akshay/Arjun","12.75"
+-4,0,"M0","SET:0|M0","Marcus Stoinis","LSG","Australia",3,"ALL-ROUNDER","Yes","Yes","Dom/Anja","8.5"
+-3,0,"M0","SET:0|M0","Ravi Bishnoi","LSG","India",3,"BOWLER","Yes","Yes","Vicky/Adhok","11"
+0,0,"M0","SET:0|M0","Shubman Gill","GT","India",3,"BATSMAN","Yes","Yes","Swamy","9.5"
+-23,1,"M","SET:1|M","Kieron Pollard","MI","West Indies",2,"ALL-ROUNDER","Yes","Yes","Venkat/Gopal","5.25"
+-16,1,"M","SET:1|M","Anrich Nortje","DC","South Africa",2,"BOWLER","Yes","Yes","Akshay/Arjun","7.25"
+-12,1,"M","SET:1|M","Varun Chakravarthy","KKR","India",2,"BOWLER","Yes","Yes","Swamy","9.25"
+1,1,"M","SET:1|M","R. Ashwin","RR","India",2,"ALL-ROUNDER","Yes","Yes","Venkat/Gopal","7.25"
+2,1,"M","SET:1|M","Trent Boult","RR","New Zealand",2,"BOWLER","Yes","Yes","Shankar","11.75"
+3,1,"M","SET:1|M","Pat Cummins","KKR","Australia",2,"ALL-ROUNDER","Yes","Yes","Vicky/Adhok","7.25"
+4,1,"M","SET:1|M","Quinton De Kock","LSG","South Africa",2,"WICKETKEEPER","Yes","Yes","Shankar","10.75"
+5,1,"M","SET:1|M","Shikhar Dhawan","PK","India",2,"BATSMAN","Yes","Yes","Raghu","14"
+6,1,"M","SET:1|M","Faf Du Plessis","RCB","South Africa",2,"BATSMAN","Yes","Yes","Dom/Anja","12.25"
+7,1,"M","SET:1|M","Shreyas Iyer","KKR","India",2,"BATSMAN","Yes","Yes","Akshay/Arjun","8.5"
+8,1,"M","SET:1|M","Kagiso Rabada","PK","South Africa",2,"BOWLER","Yes","Yes","Raghu","7.5"
+9,1,"M","SET:1|M","Mohammad Shami","GT","India",2,"BOWLER","Yes","Yes","Raghu","8.25"
+10,1,"M","SET:1|M","David Warner","DC","Australia",2,"BATSMAN","Yes","Yes","Vicky/Adhok","13"
+-9,2,"BA1","SET:2|BA1","Yashasvi Jaiswal","RR","India",2,"BATSMAN","Yes","Yes","Venkat/Gopal","5.25"
+11,2,"BA1","SET:2|BA1","Shimron Hetmyer","RR","West Indies",1.5,"BATSMAN","Yes","Yes","Vijay","4"
+12,2,"BA1","SET:2|BA1","David Miller","GT","South Africa",1,"BATSMAN","Yes","No",NA,NA
+13,2,"BA1","SET:2|BA1","Devdutt Padikkal","RR","India",2,"BATSMAN","Yes","Yes","Akshay/Arjun","5.5"
+14,2,"BA1","SET:2|BA1","Manish Pandey","LSG","India",1,"BATSMAN","Yes","Yes","Vicky/Adhok","4.6"
+16,2,"BA1","SET:2|BA1","Jason Roy","GT","England",2,"BATSMAN","Yes","Yes","Vijay","5.25"
+18,2,"BA1","SET:2|BA1","Robin Uthappa","CSK","India",2,"BATSMAN","Yes","Yes","Dom/Anja","3"
+-17,3,"AL1","SET:3|AL1","Axar Patel","DC","India",2,"ALL-ROUNDER","Yes","Yes","Swamy","4.6"
+-15,3,"AL1","SET:3|AL1","Venkatesh Iyer","KKR","India",2,"ALL-ROUNDER","Yes","Yes","Dom/Anja","6"
+-14,3,"AL1","SET:3|AL1","Sunil Narine","KKR","West Indies",2,"ALL-ROUNDER","Yes","Yes","Vijay","7"
+20,3,"AL1","SET:3|AL1","Dwayne Bravo","CSK","West Indies",2,"ALL-ROUNDER","Yes","Yes","Shankar","4.2"
+21,3,"AL1","SET:3|AL1","Wanindu Hasaranga","RCB","Sri Lanka",1,"ALL-ROUNDER","Yes","Yes","Raghu","7"
+22,3,"AL1","SET:3|AL1","Jason Holder","LSG","West Indies",1.5,"ALL-ROUNDER","Yes","Yes","Vijay","4.4"
+23,3,"AL1","SET:3|AL1","Mitchell Marsh","DC","Australia",2,"ALL-ROUNDER","Yes","Yes","Venkat/Gopal","3.6"
+24,3,"AL1","SET:3|AL1","Mohammad Nabi","KKR","Afghanistan",1,"ALL-ROUNDER","Yes","No",NA,NA
+25,3,"AL1","SET:3|AL1","Krunal Pandya","LSG","India",2,"ALL-ROUNDER","Yes","Yes","Akshay/Arjun","3.8"
+26,3,"AL1","SET:3|AL1","Harshal Patel","RCB","India",2,"ALL-ROUNDER","Yes","Yes","Vicky/Adhok","6.25"
+27,3,"AL1","SET:3|AL1","Nitish Rana","KKR","India",1,"ALL-ROUNDER","Yes","Yes","Venkat/Gopal","4"
+28,3,"AL1","SET:3|AL1","Washington Sundar","SRH","India",1.5,"ALL-ROUNDER","Yes","Yes","Swamy","4.2"
+-31,4,"WK1","SET:4|WK1","MS Dhoni","CSK","India",1.5,"WICKETKEEPER","Yes","Yes","Swamy","2.2"
+29,4,"WK1","SET:4|WK1","Jonny Bairstow","PK","England",1.5,"WICKETKEEPER","Yes","Yes","Shankar","5.75"
+30,4,"WK1","SET:4|WK1","Sam Billings","KKR","England",2,"WICKETKEEPER","Yes","No",NA,NA
+31,4,"WK1","SET:4|WK1","Dinesh Karthik","RCB","India",2,"WICKETKEEPER","Yes","Yes","Venkat/Gopal","4"
+32,4,"WK1","SET:4|WK1","Ishan Kishan","MI","India",2,"WICKETKEEPER","Yes","Yes","Vicky/Adhok","9.75"
+33,4,"WK1","SET:4|WK1","Nicholas Pooran","SRH","West Indies",1.5,"WICKETKEEPER","Yes","Yes","Venkat/Gopal","8"
+34,4,"WK1","SET:4|WK1","Ambati Rayudu","CSK","India",2,"WICKETKEEPER","Yes","Yes","Swamy","3.6"
+35,4,"WK1","SET:4|WK1","Wriddhiman Saha","GT","India",1,"WICKETKEEPER","Yes","Yes","Dom/Anja","2"
+36,4,"WK1","SET:4|WK1","Matthew Wade","GT","Australia",2,"WICKETKEEPER","Yes","No",NA,NA
+-20,5,"FA1","SET:5|FA1","Arshdeep Singh","PK","India",2,"BOWLER","Yes","Yes","Dom/Anja","4"
+-7,5,"FA1","SET:5|FA1","Umran Malik","SRH","India",2,"BOWLER","Yes","Yes","Akshay/Arjun","2.2"
+37,5,"FA1","SET:5|FA1","Deepak Chahar","CSK","India",2,"BOWLER","Yes","Yes","Swamy","7.75"
+38,5,"FA1","SET:5|FA1","Lockie Ferguson","GT","New Zealand",2,"BOWLER","Yes","Yes","Vicky/Adhok","4.6"
+39,5,"FA1","SET:5|FA1","Josh Hazlewood","RCB","Australia",2,"BOWLER","Yes","Yes","Shankar","3"
+40,5,"FA1","SET:5|FA1","Prasidh Krishna","RR","India",1,"BOWLER","Yes","Yes","Vicky/Adhok","3.6"
+41,5,"FA1","SET:5|FA1","Bhuvneshwar Kumar","SRH","India",2,"BOWLER","Yes","Yes","Raghu","4"
+42,5,"FA1","SET:5|FA1","T. Natarajan","SRH","India",1,"BOWLER","Yes","Yes","Shankar","2"
+43,5,"FA1","SET:5|FA1","Mustafizur Rahman","DC","Bangladesh",2,"BOWLER","Yes","No",NA,NA
+44,5,"FA1","SET:5|FA1","Shardul Thakur","DC","India",2,"BOWLER","Yes","Yes","Venkat/Gopal","5.25"
+45,5,"FA1","SET:5|FA1","Mark Wood","LSG","England",2,"BOWLER","Yes","Yes","Swamy","2.6"
+46,5,"FA1","SET:5|FA1","Umesh Yadav","KKR","India",2,"BOWLER","Yes","No",NA,NA
+47,6,"SP1","SET:6|SP1","Yuzvendra Chahal","RR","India",2,"BOWLER","Yes","Yes","Raghu","5.25"
+48,6,"SP1","SET:6|SP1","Rahul Chahar","PK","India",0.75,"BOWLER","Yes","Yes","Venkat/Gopal","4.2"
+52,6,"SP1","SET:6|SP1","Kuldeep Yadav","DC","India",1,"BOWLER","Yes","Yes","Vijay","1.4"
+-6,8,"UAL1","SET:8|UAL1","Abdul Samad","SRH","India",2,"ALL-ROUNDER","Yes","Yes","Akshay/Arjun","2.6"
+55,7,"UBA1","SET:7|UBA1","Dewald Brevis","MI","South Africa",0.2,"BATSMAN","Yes","Yes","Dom/Anja","1"
+56,7,"UBA1","SET:7|UBA1","Priyam Garg","SRH","India",0.2,"BATSMAN","Yes","Yes","Shankar","0.35"
+57,7,"UBA1","SET:7|UBA1","Ashwin Hebbar","DC","India",0.2,"BATSMAN","Yes","Yes","Shankar","0.3"
+58,7,"UBA1","SET:7|UBA1","C.Hari Nishaanth","CSK","India",0.2,"BATSMAN","Yes","No",NA,NA
+60,7,"UBA1","SET:7|UBA1","Abhinav Sadarangani","GT","India",0.2,"BATSMAN","Yes","Yes","Vicky/Adhok","1"
+61,7,"UBA1","SET:7|UBA1","Anmolpreet Singh","MI","India",0.2,"BATSMAN","Yes","Yes","Venkat/Gopal","0.45"
+62,7,"UBA1","SET:7|UBA1","Rahul Tripathi","SRH","India",0.4,"BATSMAN","Yes","Yes","Vicky/Adhok","6"
+63,8,"UAL1","SET:8|UAL1","Shahbaz Ahamad","RCB","India",0.3,"ALL-ROUNDER","Yes","Yes","Akshay/Arjun","3"
+64,8,"UAL1","SET:8|UAL1","Harpreet Brar","PK","India",0.2,"ALL-ROUNDER","Yes","Yes","Vicky/Adhok","2.8"
+65,8,"UAL1","SET:8|UAL1","Deepak Hooda","LSG","India",0.4,"ALL-ROUNDER","Yes","Yes","Raghu","3.2"
+66,8,"UAL1","SET:8|UAL1","Sarfaraz Khan","DC","India",0.2,"ALL-ROUNDER","Yes","Yes","Shankar","1"
+67,8,"UAL1","SET:8|UAL1","Shahrukh Khan","PK","India",0.4,"ALL-ROUNDER","Yes","Yes","Vijay","3.4"
+68,8,"UAL1","SET:8|UAL1","Shivam Mavi","KKR","India",0.4,"ALL-ROUNDER","Yes","Yes","Shankar","3.4"
+69,8,"UAL1","SET:8|UAL1","Kamlesh Nagarkoti","DC","India",0.4,"ALL-ROUNDER","Yes","Yes","Vijay","0.5"
+70,8,"UAL1","SET:8|UAL1","Riyan Parag","RR","India",0.3,"ALL-ROUNDER","Yes","Yes","Raghu","0.9"
+71,8,"UAL1","SET:8|UAL1","Abhishek Sharma","SRH","India",0.2,"ALL-ROUNDER","Yes","Yes","Dom/Anja","2.6"
+72,8,"UAL1","SET:8|UAL1","Rahul Tewatia","GT","India",0.4,"ALL-ROUNDER","Yes","Yes","Dom/Anja","2"
+74,9,"UWK1","SET:9|UWK1","K.S. Bharat","DC","India",0.2,"WICKETKEEPER","Yes","Yes","Akshay/Arjun","1"
+75,9,"UWK1","SET:9|UWK1","Sheldon Jackson","KKR","India",0.3,"WICKETKEEPER","Yes","Yes","Vijay","1"
+76,9,"UWK1","SET:9|UWK1","N. Jagadeesan","CSK","India",0.2,"WICKETKEEPER","Yes","Yes","Swamy","0.25"
+77,9,"UWK1","SET:9|UWK1","Anuj Rawat","RCB","India",0.2,"WICKETKEEPER","Yes","Yes","Akshay/Arjun","2.4"
+78,9,"UWK1","SET:9|UWK1","Jitesh Sharma","PK","India",0.2,"WICKETKEEPER","Yes","Yes","Akshay/Arjun","0.2"
+79,9,"UWK1","SET:9|UWK1","Prabhsimran Singh","PK","India",0.2,"WICKETKEEPER","Yes","Yes","Swamy","0.4"
+81,9,"UWK1","SET:9|UWK1","Vishnu Vinod","SRH","India",0.2,"WICKETKEEPER","Yes","Yes","Vicky/Adhok","0.35"
+82,10,"UFA1","SET:10|UFA1","K.M. Asif","CSK","India",0.2,"BOWLER","Yes","Yes","Shankar","0.35"
+83,10,"UFA1","SET:10|UFA1","Akash Deep","RCB","India",0.2,"BOWLER","Yes","Yes","Dom/Anja","0.2"
+84,10,"UFA1","SET:10|UFA1","Tushar Deshpande","CSK","India",0.2,"BOWLER","Yes","Yes","Vicky/Adhok","1.4"
+85,10,"UFA1","SET:10|UFA1","Avesh Khan","LSG","India",0.2,"BOWLER","Yes","Yes","Vijay","5.25"
+86,10,"UFA1","SET:10|UFA1","Ishan Porel","PK","India",0.2,"BOWLER","Yes","Yes","Raghu","0.7"
+87,10,"UFA1","SET:10|UFA1","Ankit Singh Rajpoot","LSG","India",0.2,"BOWLER","Yes","Yes","Venkat/Gopal","0.35"
+88,10,"UFA1","SET:10|UFA1","Basil Thampi","MI","India",0.3,"BOWLER","Yes","No",NA,NA
+89,10,"UFA1","SET:10|UFA1","Kartik Tyagi","SRH","India",0.2,"BOWLER","Yes","Yes","Raghu","0.8"
+90,11,"USP1","SET:11|USP1","Noor Ahmad","GT","Afghanistan",0.3,"BOWLER","Yes","Yes","Dom/Anja","0.3"
+91,11,"USP1","SET:11|USP1","Murugan Ashwin","MI","India",0.2,"BOWLER","Yes","Yes","Venkat/Gopal","3.2"
+92,11,"USP1","SET:11|USP1","K.C Cariappa","RR","India",0.2,"BOWLER","Yes","Yes","Raghu","0.2"
+93,11,"USP1","SET:11|USP1","Shreyas Gopal","SRH","India",0.2,"BOWLER","Yes","Yes","Raghu","1"
+95,11,"USP1","SET:11|USP1","R. Sai Kishore","GT","India",0.2,"BOWLER","Yes","Yes","Shankar","1.9"
+97,11,"USP1","SET:11|USP1","Jagadeesha Suchith","SRH","India",0.2,"BOWLER","Yes","Yes","Swamy","0.3"
+101,12,"BA2","SET:12|BA2","Aiden Markram","SRH","South Africa",1,"BATSMAN","Yes","Yes","Dom/Anja","4"
+104,12,"BA2","SET:12|BA2","Ajinkya Rahane","KKR","India",1,"BATSMAN","Yes","No",NA,NA
+105,12,"BA2","SET:12|BA2","Mandeep Singh","DC","India",0.5,"BATSMAN","Yes","Yes","Swamy","0.5"
+107,13,"AL2","SET:13|AL2","Dominic Drakes","GT","West Indies",0.75,"ALL-ROUNDER","Yes","No",NA,NA
+108,13,"AL2","SET:13|AL2","Shivam Dube","CSK","India",0.5,"ALL-ROUNDER","Yes","Yes","Vicky/Adhok","1"
+109,13,"AL2","SET:13|AL2","K. Gowtham","LSG","India",0.5,"ALL-ROUNDER","Yes","Yes","Venkat/Gopal","1.5"
+110,13,"AL2","SET:13|AL2","Marco Jansen","SRH","South Africa",0.5,"ALL-ROUNDER","Yes","Yes","Vijay","0.8"
+111,13,"AL2","SET:13|AL2","Chris Jordan","CSK","England",2,"ALL-ROUNDER","Yes","No",NA,NA
+112,13,"AL2","SET:13|AL2","Liam Livingstone","PK","England",1,"ALL-ROUNDER","Yes","Yes","Akshay/Arjun","8"
+113,13,"AL2","SET:13|AL2","James Neesham","RR","New Zealand",1.5,"ALL-ROUNDER","Yes","No",NA,NA
+114,13,"AL2","SET:13|AL2","Vijay Shankar","GT","India",0.5,"ALL-ROUNDER","Yes","Yes","Venkat/Gopal","1"
+115,13,"AL2","SET:13|AL2","Odean Smith","PK","West Indies",1,"ALL-ROUNDER","Yes","Yes","Swamy","2"
+116,13,"AL2","SET:13|AL2","Jayant Yadav","GT","India",1,"ALL-ROUNDER","Yes","Yes","Vijay","1"
+117,14,"FA2","SET:14|FA2","Syed Khaleel Ahmed","DC","India",0.5,"BOWLER","Yes","Yes","Akshay/Arjun","0.8"
+118,14,"FA2","SET:14|FA2","Dushmanta Chameera","LSG","Sri Lanka",0.5,"BOWLER","Yes","Yes","Raghu","0.7"
+120,14,"FA2","SET:14|FA2","Nathan Coulter-Nile","RR","Australia",2,"BOWLER","Yes","No",NA,NA
+121,14,"FA2","SET:14|FA2","Lungisani Ngidi","DC","South Africa",0.5,"BOWLER","Yes","No",NA,NA
+122,14,"FA2","SET:14|FA2","Navdeep Saini","RR","India",0.75,"BOWLER","Yes","Yes","Swamy","0.75"
+123,14,"FA2","SET:14|FA2","Chetan Sakariya","DC","India",0.5,"BOWLER","Yes","Yes","Dom/Anja","3.6"
+125,14,"FA2","SET:14|FA2","Sandeep Sharma","PK","India",0.5,"BOWLER","Yes","Yes","Raghu","0.5"
+126,14,"FA2","SET:14|FA2","Jaydev Unadkat","MI","India",0.75,"BOWLER","Yes","Yes","Venkat/Gopal","1.7"
+129,15,"SP2","SET:15|SP2","Mayank Markande","MI","India",0.5,"BOWLER","Yes","Yes","Vicky/Adhok","1.9"
+130,15,"SP2","SET:15|SP2","Shahbaz Nadeem","LSG","India",0.5,"BOWLER","Yes","Yes","Shankar","0.5"
+132,15,"SP2","SET:15|SP2","Karn Sharma","RCB","India",0.5,"BOWLER","Yes","No",NA,NA
+134,15,"SP2","SET:15|SP2","Maheesh Theekshana","CSK","Sri Lanka",0.5,"BOWLER","Yes","No",NA,NA
+140,16,"UBA2","SET:16|UBA2","Rinku Singh","KKR","India",0.2,"BATSMAN","Yes","No",NA,NA
+142,16,"UBA2","SET:16|UBA2","Manan Vohra","LSG","India",0.2,"BATSMAN","Yes","Yes","Shankar","0.2"
+143,17,"UAL2","SET:17|UAL2","Raj Angad Bawa","PK","India",0.2,"ALL-ROUNDER","Yes","Yes","Swamy","0.5"
+144,17,"UAL2","SET:17|UAL2","Yash Dhull","DC","India",0.2,"ALL-ROUNDER","Yes","Yes","Vijay","0.7"
+145,17,"UAL2","SET:17|UAL2","Rajvardhan Hangargekar","CSK","India",0.3,"ALL-ROUNDER","Yes","Yes","Dom/Anja","0.9"
+146,17,"UAL2","SET:17|UAL2","Mahipal Lomror","RCB","India",0.4,"ALL-ROUNDER","Yes","Yes","Shankar","1.1"
+147,17,"UAL2","SET:17|UAL2","Darshan Nalkande","GT","India",0.2,"ALL-ROUNDER","Yes","No",NA,NA
+148,17,"UAL2","SET:17|UAL2","Vicky Ostwal","DC","India",0.2,"ALL-ROUNDER","Yes","No",NA,NA
+149,17,"UAL2","SET:17|UAL2","Ripal Patel","DC","India",0.2,"ALL-ROUNDER","Yes","No",NA,NA
+150,17,"UAL2","SET:17|UAL2","Anukul Roy","KKR","India",0.2,"ALL-ROUNDER","Yes","No",NA,NA
+151,17,"UAL2","SET:17|UAL2","N. Tilak Varma","MI","India",0.2,"ALL-ROUNDER","Yes","Yes","Swamy","1.9"
+152,17,"UAL2","SET:17|UAL2","Lalit Yadav","DC","India",0.2,"ALL-ROUNDER","Yes","Yes","Dom/Anja","1.3"
+153,17,"UAL2","SET:17|UAL2","Sanjay Yadav","MI","India",0.2,"ALL-ROUNDER","Yes","Yes","Dom/Anja","0.6"
+154,18,"UFA2","SET:18|UFA2","Yash Dayal","GT","India",0.2,"BOWLER","Yes","Yes","Akshay/Arjun","0.4"
+156,18,"UFA2","SET:18|UFA2","Kuldeep Sen","RR","India",0.2,"BOWLER","Yes","No",NA,NA
+158,18,"UFA2","SET:18|UFA2","Simarjeet Singh","CSK","India",0.2,"BOWLER","Yes","Yes","Akshay/Arjun","0.2"
+162,19,"BA3","SET:19|BA3","Finn Allen","RCB","New Zealand",0.5,"BATSMAN","Yes","Yes","Raghu","0.5"
+163,19,"BA3","SET:19|BA3","Devon Conway","CSK","New Zealand",1,"BATSMAN","Yes","Yes","Vijay","6.5"
+164,19,"BA3","SET:19|BA3","Alex Hales","KKR","England",1.5,"BATSMAN","Yes","Yes","Venkat/Gopal","1.7"
+165,19,"BA3","SET:19|BA3","Evin Lewis","LSG","West Indies",2,"BATSMAN","Yes","No",NA,NA
+167,19,"BA3","SET:19|BA3","Karun Nair","RR","India",0.5,"BATSMAN","Yes","Yes","Shankar","0.5"
+168,19,"BA3","SET:19|BA3","Rovman Powell","DC","West Indies",0.75,"BATSMAN","Yes","Yes","Dom/Anja","3.2"
+169,19,"BA3","SET:19|BA3","Rassie Van Der Dussen","RR","South Africa",1,"BATSMAN","Yes","Yes","Venkat/Gopal","1"
+171,20,"AL3","SET:20|AL3","Jofra Archer","MI","England",2,"ALL-ROUNDER","No","No",NA,NA
+173,20,"AL3","SET:20|AL3","Rishi Dhawan","PK","India",0.5,"ALL-ROUNDER","No","No",NA,NA
+175,20,"AL3","SET:20|AL3","Daryl Mitchell","RR","New Zealand",0.75,"ALL-ROUNDER","No","No",NA,NA
+176,20,"AL3","SET:20|AL3","Dwaine Pretorius","CSK","South Africa",0.5,"ALL-ROUNDER","No","No",NA,NA
+177,20,"AL3","SET:20|AL3","Sherfane Rutherford","RCB","West Indies",1,"ALL-ROUNDER","No","No",NA,NA
+178,20,"AL3","SET:20|AL3","Daniel Sams","MI","Australia",1,"ALL-ROUNDER","No","No",NA,NA
+179,20,"AL3","SET:20|AL3","Mitchell Santner","CSK","New Zealand",1,"ALL-ROUNDER","No","No",NA,NA
+180,20,"AL3","SET:20|AL3","Romario Shepherd","SRH","West Indies",0.75,"ALL-ROUNDER","No","No",NA,NA
+191,21,"WK2","SET:21|WK2","Glenn Phillips","SRH","New Zealand",1.5,"WICKETKEEPER","No","No",NA,NA
+192,21,"WK2","SET:21|WK2","Tim Seifert","DC","New Zealand",0.5,"WICKETKEEPER","No","No",NA,NA
+193,22,"FA3","SET:22|FA3","Jason Behrendorff","RCB","Australia",0.75,"BOWLER","No","No",NA,NA
+194,22,"FA3","SET:22|FA3","Nathan Ellis","PK","Australia",0.75,"BOWLER","No","No",NA,NA
+195,22,"FA3","SET:22|FA3","Fazalhaq Farooqi","SRH","Afghanistan",0.5,"BOWLER","No","No",NA,NA
+196,22,"FA3","SET:22|FA3","Siddharth Kaul","RCB","India",0.75,"BOWLER","No","No",NA,NA
+197,22,"FA3","SET:22|FA3","Obed Mccoy","RR","West Indies",0.75,"BOWLER","No","No",NA,NA
+198,22,"FA3","SET:22|FA3","Tymal Mills","MI","England",1,"BOWLER","No","No",NA,NA
+199,22,"FA3","SET:22|FA3","Adam Milne","CSK","New Zealand",1.5,"BOWLER","No","No",NA,NA
+218,24,"UBA3","SET:24|UBA3","Subhranshu Senapati","CSK","India",0.2,"BATSMAN","No","No",NA,NA
+221,25,"UAL3","SET:25|UAL3","Tim David","MI","Australia",0.4,"ALL-ROUNDER","No","No",NA,NA
+222,25,"UAL3","SET:25|UAL3","Pravin Dubey","DC","India",0.2,"ALL-ROUNDER","No","No",NA,NA
+223,25,"UAL3","SET:25|UAL3","Prerak Mankad","PK","India",0.2,"ALL-ROUNDER","No","No",NA,NA
+224,25,"UAL3","SET:25|UAL3","Suyash Prabhudessai","RCB","India",0.2,"ALL-ROUNDER","No","No",NA,NA
+225,25,"UAL3","SET:25|UAL3","Ramandeep Singh","MI","India",0.2,"ALL-ROUNDER","No","No",NA,NA
+226,25,"UAL3","SET:25|UAL3","B. Sai Sudharsan","GT","India",0.2,"ALL-ROUNDER","No","No",NA,NA
+227,25,"UAL3","SET:25|UAL3","Atharva Taide","PK","India",0.2,"ALL-ROUNDER","No","No",NA,NA
+233,26,"UWK2","SET:26|UWK2","Dhruv Jurel","RR","India",0.2,"WICKETKEEPER","No","No",NA,NA
+234,26,"UWK2","SET:26|UWK2","Aryan Juyal","MI","India",0.2,"WICKETKEEPER","No","No",NA,NA
+236,26,"UWK2","SET:26|UWK2","Luvnith Sisodia","RCB","India",0.2,"WICKETKEEPER","No","No",NA,NA
+239,27,"UFA3","SET:27|UFA3","Vaibhav Arora","PK","India",0.2,"BOWLER","No","No",NA,NA
+240,27,"UFA3","SET:27|UFA3","Mukesh Choudhary","CSK","India",0.2,"BOWLER","No","No",NA,NA
+241,27,"UFA3","SET:27|UFA3","Rasikh Dar","KKR","India",0.2,"BOWLER","No","No",NA,NA
+244,27,"UFA3","SET:27|UFA3","Mohsin Khan","LSG","India",0.2,"BOWLER","No","No",NA,NA
+246,27,"UFA3","SET:27|UFA3","Chama Milind","RCB","India",0.2,"BOWLER","No","No",NA,NA
+248,27,"UFA3","SET:27|UFA3","Mayank Yadav","LSG","India",0.2,"BOWLER","No","No",NA,NA
+250,28,"USP2","SET:28|USP2","Tejas Baroka","RR","India",0.2,"BOWLER","No","No",NA,NA
+257,28,"USP2","SET:28|USP2","Prashant Solanki","CSK","India",0.2,"BOWLER","No","No",NA,NA
+263,29,"BA4","SET:29|BA4","Bhanuka Rajapaksa","PK","Sri Lanka",0.5,"BATSMAN","No","No",NA,NA
+269,30,"AL4","SET:30|AL4","Fabian Allen","MI","West Indies",0.75,"ALL-ROUNDER","No","No",NA,NA
+278,30,"AL4","SET:30|AL4","Gurkeerat Singh","GT","India",0.5,"ALL-ROUNDER","No","No",NA,NA
+279,31,"FA4","SET:31|FA4","Sean Abbott","SRH","Australia",0.75,"BOWLER","No","No",NA,NA
+282,31,"FA4","SET:31|FA4","Alzarri Joseph","GT","West Indies",0.75,"BOWLER","No","No",NA,NA
+285,31,"FA4","SET:31|FA4","Riley Meredith","MI","Australia",1,"BOWLER","No","No",NA,NA
+287,31,"FA4","SET:31|FA4","Tim Southee","KKR","New Zealand",1.5,"BOWLER","No","No",NA,NA
+290,32,"UBA4","SET:32|UBA4","Rahul Buddhi","MI","India",0.2,"BATSMAN","No","No",NA,NA
+301,33,"UAL4","SET:33|UAL4","Benny Howell","PK","England",0.4,"ALL-ROUNDER","No","No",NA,NA
+311,34,"UWK3","SET:34|UWK3","Baba Indrajith","KKR","India",0.2,"WICKETKEEPER","No","No",NA,NA
+327,35,"UFA4","SET:35|UFA4","Kuldip Yadav","RR","India",0.2,"BOWLER","No","No",NA,NA
+350,38,"AL5","SET:38|AL5","Chamika Karunaratne","KKR","Sri Lanka",0.5,"ALL-ROUNDER","No","No",NA,NA
+356,38,"AL5","SET:38|AL5","David Willey","RCB","England",2,"ALL-ROUNDER","No","No",NA,NA
+357,39,"FA5","SET:39|FA5","Varun Aaron","GT","India",0.5,"BOWLER","No","No",NA,NA
+374,40,"UBA5","SET:40|UBA5","R Samarth","SRH","India",0.2,"BATSMAN","No","No",NA,NA
+382,41,"UAL5","SET:41|UAL5","Aman Khan","KKR","India",0.2,"ALL-ROUNDER","No","No",NA,NA
+384,41,"UAL5","SET:41|UAL5","Pradeep Sangwan","GT","India",0.2,"ALL-ROUNDER","No","No",NA,NA
+434,47,"UBA6","SET:47|UBA6","Ramesh Kumar","KKR","India",0.2,"BATSMAN","No","No",NA,NA
+439,47,"UBA6","SET:47|UBA6","Pratham Singh","KKR","India",0.2,"BATSMAN","No","No",NA,NA
+441,48,"UAL6","SET:48|UAL6","Writtick Chatterjee","PK","India",0.2,"ALL-ROUNDER","No","No",NA,NA
+449,48,"UAL6","SET:48|UAL6","Hrithik Shokeen","MI","India",0.2,"ALL-ROUNDER","No","No",NA,NA
+450,48,"UAL6","SET:48|UAL6","Shashank Singh","SRH","India",0.2,"ALL-ROUNDER","No","No",NA,NA
+468,50,"AL7","SET:50|AL7","Kyle Mayers","LSG","West Indies",0.5,"ALL-ROUNDER","No","No",NA,NA
+476,51,"UAL7","SET:51|UAL7","Karan Sharma","LSG","India",0.2,"ALL-ROUNDER","No","No",NA,NA
+485,52,"UFA7","SET:52|UFA7","Baltej Dhanda","PK","India",0.2,"BOWLER","No","No",NA,NA
+486,52,"UFA7","SET:52|UFA7","Saurabh Dubey","SRH","India",0.2,"BOWLER","No","No",NA,NA
+497,53,"UAL8","SET:53|UAL8","Mohd. Arshad Khan","MI","India",0.2,"ALL-ROUNDER","No","No",NA,NA
+498,53,"UAL8","SET:53|UAL8","Ansh Patel","PK","India",0.2,"ALL-ROUNDER","No","No",NA,NA
+501,53,"UAL8","SET:53|UAL8","K.Bhagath Varma","CSK","India",0.2,"ALL-ROUNDER","No","No",NA,NA
+507,54,"UFA8","SET:54|UFA8","Ashok Sharma","KKR","India",0.2,"BOWLER","No","No",NA,NA
+535,57,"UAL10","SET:57|UAL10","Arjun Tendulkar","MI","India",0.2,"ALL-ROUNDER","No","No",NA,NA
+548,59,"UAL12","SET:59|UAL12","Shubham Garhwal","RR","India",0.2,"ALL-ROUNDER","No","No",NA,NA
+376,40,"UBA5","SET:40|UBA5","Abhijeet Tomar","KKR","India",0.2,"BATSMAN","No","No",NA,NA
+564,60,"UAL13","SET:60|UAL13","Anunay Singh","RR","India",0.2,"BATSMAN","No","No",NA,NA
+299,33,"UAL4","SET:33|UAL4","Ayush Badoni","LSG","India",0.2,"ALL-ROUNDER","No","No",NA,NA
+300,33,"UAL4","SET:33|UAL4","Aneeshwar Gautam","RCB","India",0.2,"ALL-ROUNDER","No","No",NA,NA
